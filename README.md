@@ -5,6 +5,6 @@
 
 🚀 I'm currently building a mobile application with Gdscript and Godot Engine.
 
-👨‍💻 All of my projects are available at https://osama-m-ahmed.github.io/](https://osama-m-ahmed.github.io/portfolio/
+👨‍💻 All of my projects are available at https://osama-m-ahmed.github.io/portfolio/
 
 Connect with me:
