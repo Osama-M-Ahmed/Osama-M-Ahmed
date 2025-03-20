@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://github.com/ShaftHQ/SHAFT_ENGINE" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ShaftHQ/SHAFT_ENGINE/raw/main/images/shaft-engine-logo.png" alt="shaft" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/107793399?s=200&v=4" alt="shaft" width="40" height="40"/>
   </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
