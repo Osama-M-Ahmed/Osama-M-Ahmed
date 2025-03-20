@@ -1,18 +1,18 @@
 ![MasterHead](https://e0.pxfuel.com/wallpapers/460/450/desktop-wallpaper-qa-best-practices-to-deliver-stable-software-quality-assurance.jpg)
-<h1 align="center">Hi 👋, I'm Md. Golam An Nihal</h1>
-<h3 align="center">Experienced SQA Engineer from Bangladesh with a passion for quality and a proven track record of success in the software development industry. Seeking a challenging position where I can use my skills and experience to improve the quality of software products.</h3>
+<h1 align="center">Hi 👋, I'm Osama Mohamed </h1>
+<h3 align="center">Experienced JQA Engineer from Egypt with a passion for quality and a proven track record of success in the software development industry. Seeking a challenging position where I can use my skills and experience to improve the quality of software products.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47aht2l1ouhr9pxk8yxseurw3xyd6jnm69m64wp4e9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="an-nihal" /> </p>
 
-- 🔭 I’m currently working on **Automation Testing on web and mobile applications.**
+- 🔭 I’m currently working on **Manual Testing and API Testing.**
 
-- 🌱 I’m currently learning **full stack Software Quality Assurance.**
+- 🌱 I’m currently learning **Automation Testing With Java .**
 
-- 💬 Ask me about **Functional Testing, API Testing, Performance Testing, Git, Database Testing, Security & Penetration Testing, Automation Testing**
+- 💬 Ask me about **Functional Testing, API Testing, **
 
-- 📫 How to reach me **annihal55@gmail.com**
+- 📫 How to reach me **osama.mohamedd70@gmail.com**
 
 - 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1BSy_68oxsXhUdmp7_Vy72shv04w64LpA/view?usp=sharing)
 
@@ -20,9 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/an-nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an-nihal" height="30" width="40" /></a>
-<a href="https://fb.com/an.nihal55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="an.nihal55" height="30" width="40" /></a>
-<a href="https://discord.gg/fHvzJAB7UY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fHvzJAB7UY" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-mohamed-8054141a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="an-nihal" height="30" width="40" /></a>
+<a href="https://wa.me/201104863740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="an.nihal55" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
