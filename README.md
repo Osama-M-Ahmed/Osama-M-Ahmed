@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Automation Testing and CI_CD .**
 
-- 💬 Ask me about **Functional Testing, exploratory testing,  API Testing, **
+- 💬 Ask me about **Functional Testing, exploratory testing,  API Testing**
 
 - 📫 How to reach me **osama.mohamedd70@gmail.com**
 
