@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Manual Testing and API Testing.**
 
-- 🌱 I’m currently learning **Automation Testing With Java .**
+- 🌱 I’m currently learning **Automation Testing and CI_CD .**
 
 - 💬 Ask me about **Functional Testing, API Testing, **
 
