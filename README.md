@@ -36,15 +36,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/selenium/selenium_256x256.png" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://github.com/ShaftHQ/SHAFT_ENGINE" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ShaftHQ/SHAFT_ENGINE/raw/main/images/logo.png" alt="shaft" width="40" height="40"/>
+    <img src="https://user-images.githubusercontent.com/54870798/197626744-48672291-d3a2-4c7e-9014-ef7ff019ecb5.png" alt="shaft" width="40" height="40"/>
   </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
