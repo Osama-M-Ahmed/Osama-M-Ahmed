@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **osama.mohamedd70@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1BSy_68oxsXhUdmp7_Vy72shv04w64LpA/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://1drv.ms/b/c/cafc18c8eb65b3ab/EdJxVAvzzARCibVvJdDDs-0BriDrai0WVCjz2fsxinoFkw?e=SdehBv)
 
 - ⚡ Fun fact **I am funny, active. I love to talk, hangout and gain knowledge.**
 
